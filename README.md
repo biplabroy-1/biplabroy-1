@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on
-[Portfolio](https://github.com/ItsBiplabRoy/Portfolio) - <br>🌱 I’m currently
-learning **React, vue and gsap** -<br> 💬 Ask me about **HTML, CSS, JS, TAILWIND** -<br>
+[Portfolio](https://github.com/ItsBiplabRoy/Portfolio)<br> -  🌱 I’m currently
+learning **React, vue and gsap**<br> -  💬 Ask me about **HTML, CSS, JS, TAILWIND**<br> - 
 📫 How to reach me **biplabr119201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
