@@ -20,7 +20,7 @@ learning **React, vue and gsap**<br>
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg)"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="50" height="50" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
