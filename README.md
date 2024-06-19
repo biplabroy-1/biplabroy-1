@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on
-[Portfolio](https://github.com/biplabroy-1/portfolio)<br>
+[College Eats](https://github.com/biplabroy-1/foodies)<br>
 - 🌱 I’m currently
 learning **React, vue and gsap**<br>
 - 💬 Ask me about **HTML, CSS, JS, TAILWIND**<br>
