@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on
 [College Eats](https://github.com/biplabroy-1/foodies)<br>
 - 🌱 I’m currently
-learning **React, vue and gsap**<br>
+learning **React, React Native**<br>
 - 💬 Ask me about **HTML, CSS, JS, TAILWIND**<br>
 - 📫 How to reach me **biplabr119201@gmail.com**
 
