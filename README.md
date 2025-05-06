@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Biplab Roy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 - 🔭 I’m currently working on
 [College Eats](https://github.com/biplabroy-1/foodies)<br>
 - 🌱 I’m currently
-learning **React, React Native**<br>
-- 💬 Ask me about **HTML, CSS, JS, TAILWIND**<br>
+learning **DevOps, React Native**<br>
+- 💬 Ask me about **HTML, CSS, JS, TAILWIND, React, Next**<br>
 - 📫 How to reach me **biplabr119201@gmail.com**
 
 
