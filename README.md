@@ -8,7 +8,6 @@
 * 🌱 Currently learning: **Terraform, Prometheus, Grafana, Jenkins**, and **infrastructure as code (IaC)** best practices.
 * 💬 Ask me about DevOps workflows, deployment automation, and infrastructure management.
 * 📫 Reach me at: **[biplabr119201@gmail.com](mailto:biplabr119201@gmail.com)**
-* 📁 Resume & Portfolio: *(add your link here if available)*
 * 🚀 Goal: To help teams ship faster, safer, and smarter with efficient DevOps practices.
 
 
