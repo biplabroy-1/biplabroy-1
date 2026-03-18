@@ -4,7 +4,6 @@
 * 🔧 I’m currently focused on **DevOps Engineering** — learning to build scalable, automated, and secure deployment pipelines.
 * 🛠️ Tools & Technologies: **Docker, Kubernetes, GitHub Actions, CI/CD, Linux, Nginx, AWS (EC2, S3), Bash, Node.js**
 * 💻 Past experience in **Web & Mobile Development** using **React, Next.js, Tailwind, React Native, MongoDB, Express.js**
-* 🔭 Recent project: [**College Eats**](https://github.com/biplabroy-1/foodies) — a full-stack app to help college students track and plan meals.
 * 🌱 Currently learning: **Terraform, Prometheus, Grafana, Jenkins**, and **infrastructure as code (IaC)** best practices.
 * 💬 Ask me about DevOps workflows, deployment automation, and infrastructure management.
 * 📫 Reach me at: **[biplabr119201@gmail.com](mailto:biplabr119201@gmail.com)**
